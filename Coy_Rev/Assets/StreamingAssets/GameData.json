@@ -1,0 +1,102 @@
+{
+    "playedBefore": false,
+    "WPlayedBefore": false,
+    "myLover": 0,
+    "myPlace": 0,
+    "maxTurn": 14,
+    "turn": 0,
+    "place": [],
+    "count": [],
+    "finalLover": 0,
+    "endingNum": 0,
+    "loveWho": [
+        2,
+        1,
+        5,
+        6,
+        6,
+        1
+    ],
+    "RedLove": [],
+    "GreenLove": [],
+    "BlueLove": [],
+    "PurpleLove": [],
+    "PinkLove": [],
+    "YellowLove": [],
+    "CoyLove": [],
+    "GPlayedBefore": true,
+    "Submit": false,
+    "Gday": 9,
+    "Gturn": 4,
+    "Genergy": 20,
+    "GOver": false,
+    "roles": [
+        "B",
+        "A",
+        "F",
+        "E",
+        "D",
+        "C"
+    ],
+    "TMIcount": [
+        2,
+        2,
+        1,
+        0,
+        0,
+        -1
+    ],
+    "KYCount5": 0,
+    "KYCount10": 0,
+    "SJCount5": 0,
+    "SJCount10": 1,
+    "Ans5Count": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+    ],
+    "LoveCount": [
+        0,
+        0,
+        0,
+        0,
+        -1,
+        -1
+    ],
+    "CharList": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        4,
+        5
+    ],
+    "temp": [
+        0,
+        0,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5
+    ],
+    "QTimes": [
+        6,
+        6,
+        4,
+        6,
+        4,
+        4
+    ]
+}
